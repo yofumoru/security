@@ -1,0 +1,5 @@
+/.lab/
+/build/
+/out/
+/.idea/
+*.iml
